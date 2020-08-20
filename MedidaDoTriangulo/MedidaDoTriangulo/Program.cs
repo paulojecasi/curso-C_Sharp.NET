@@ -6,22 +6,9 @@ namespace MedidaDoTriangulo
 {
     class Program
     {
-
-        /* calculo para area do triangulo ( formula de Heron) 
-         *          ______________________________
-         *  area = V     p(p-a) (p-b) (p-c)
-         * 
-         *      onde
-         * 
-         *         a + b + c    
-         *  p = --------------
-         *             2
-         * 
-         */
-
         static void Main(string[] args)
         {
-            double x1, x2, x3, y1, y2, y3, medidaX, medidaY;
+            double medidaX, medidaY;
 
             Triangulo x, y;
             x = new Triangulo();
@@ -46,10 +33,10 @@ namespace MedidaDoTriangulo
 
 
             Console.WriteLine("------ Resultado -------");
-            medidaX = x.CalculaArteaTriangulo();
+            medidaX = x.Area();
             Console.WriteLine("areaX é >>>>>> " + medidaX.ToString("F4"));
 
-            medidaY = y.CalculaArteaTriangulo();
+            medidaY = y.Area();
             Console.WriteLine("area Y é >>>>>> " + medidaY.ToString("F4"));
 
             Console.WriteLine("------ A Maior área é -------");

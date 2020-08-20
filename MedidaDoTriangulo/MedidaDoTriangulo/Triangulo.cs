@@ -9,7 +9,7 @@ namespace MedidaDoTriangulo
         public double B;
         public double C;
 
-        public double CalculaArteaTriangulo()
+        public double Area()
         {
 
             Console.WriteLine(A + "-" + B + "-" + C);
