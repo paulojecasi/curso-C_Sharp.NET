@@ -42,10 +42,10 @@ namespace MedidaDoTriangulo
 
 
             Console.WriteLine("------ Resultado -------");
-            medidaX = TrianguloX(x1, x2, x3);
+            medidaX = CalculaArea(x1, x2, x3);
             Console.WriteLine("areaX é >>>>>> " + medidaX.ToString("F4"));
 
-            medidaY = TrianguloY(y1, y2, y3);
+            medidaY = CalculaArea(y1, y2, y3);
             Console.WriteLine("area Y é >>>>>> " + medidaY.ToString("F4"));
 
             Console.WriteLine("------ A Maior área é -------");
@@ -60,10 +60,12 @@ namespace MedidaDoTriangulo
                 Console.WriteLine("Area X é igual a area Y");
             }
 
+            Console.ReadLine();
+            
 
         }
 
-        static double TrianguloX(double xa, double xb, double xc)
+        static double CalculaArea(double a, double b, double c)
         {
             /* vamos calcular valor de P
              *       a + b + c
@@ -71,7 +73,7 @@ namespace MedidaDoTriangulo
              *           2
              */
             
-            double p = (xa + xb + xc) / 2;
+            double p = (a + b + c) / 2;
 
 
             /* vamos calcular a raiz quadrada 
@@ -79,33 +81,11 @@ namespace MedidaDoTriangulo
              *  area = V     p(p-a) (p-b) (p-c)
              */
 
-            double areaX = Math.Sqrt(p *(p-xa)*(p-xb)*(p-xc));
+            double area = Math.Sqrt(p *(p-a)*(p-b)*(p-c));
 
-            return areaX;
-
-        }
-
-        static double TrianguloY(double ya, double yb, double yc)
-        {
-            /* vamos calcular valor de P
-            *       a + b + c
-            * p = --------------
-            *           2
-            */
-
-            double p = (ya + yb + yc) / 2;
-
-
-            /* vamos calcular a raiz quadrada 
-             *      ______________________________
-             *  area = V     p(p-a) (p-b) (p-c)
-             */
-
-            double areaY = Math.Sqrt(p * (p - ya) * (p - yb) * (p - yc));
-
-            return areaY;
-
+            return area;
 
         }
+
     }
 }
