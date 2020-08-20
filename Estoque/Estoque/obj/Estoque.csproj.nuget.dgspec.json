@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Cursos\\Curso_C#.NET\\Udemy\\Programas\\MedidaDoTriangulo\\MedidaDoTriangulo\\MedidaDoTriangulo.csproj": {}
+    "C:\\Cursos\\Curso_C#.NET\\Udemy\\Programas\\Estoque\\Estoque\\Estoque.csproj": {}
   },
   "projects": {
-    "C:\\Cursos\\Curso_C#.NET\\Udemy\\Programas\\MedidaDoTriangulo\\MedidaDoTriangulo\\MedidaDoTriangulo.csproj": {
+    "C:\\Cursos\\Curso_C#.NET\\Udemy\\Programas\\Estoque\\Estoque\\Estoque.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Cursos\\Curso_C#.NET\\Udemy\\Programas\\MedidaDoTriangulo\\MedidaDoTriangulo\\MedidaDoTriangulo.csproj",
-        "projectName": "MedidaDoTriangulo",
-        "projectPath": "C:\\Cursos\\Curso_C#.NET\\Udemy\\Programas\\MedidaDoTriangulo\\MedidaDoTriangulo\\MedidaDoTriangulo.csproj",
+        "projectUniqueName": "C:\\Cursos\\Curso_C#.NET\\Udemy\\Programas\\Estoque\\Estoque\\Estoque.csproj",
+        "projectName": "Estoque",
+        "projectPath": "C:\\Cursos\\Curso_C#.NET\\Udemy\\Programas\\Estoque\\Estoque\\Estoque.csproj",
         "packagesPath": "C:\\Users\\Paulo de Jesus\\.nuget\\packages\\",
-        "outputPath": "C:\\Cursos\\Curso_C#.NET\\Udemy\\Programas\\MedidaDoTriangulo\\MedidaDoTriangulo\\obj\\",
+        "outputPath": "C:\\Cursos\\Curso_C#.NET\\Udemy\\Programas\\Estoque\\Estoque\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Paulo de Jesus\\AppData\\Roaming\\NuGet\\NuGet.Config",
