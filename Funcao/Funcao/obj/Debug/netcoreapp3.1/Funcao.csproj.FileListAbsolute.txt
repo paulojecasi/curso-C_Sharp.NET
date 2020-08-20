@@ -1,0 +1,13 @@
+C:\Cursos\Curso c#\Udemy\Programas\Funcao\Funcao\bin\Debug\netcoreapp3.1\Funcao.exe
+C:\Cursos\Curso c#\Udemy\Programas\Funcao\Funcao\bin\Debug\netcoreapp3.1\Funcao.deps.json
+C:\Cursos\Curso c#\Udemy\Programas\Funcao\Funcao\bin\Debug\netcoreapp3.1\Funcao.runtimeconfig.json
+C:\Cursos\Curso c#\Udemy\Programas\Funcao\Funcao\bin\Debug\netcoreapp3.1\Funcao.runtimeconfig.dev.json
+C:\Cursos\Curso c#\Udemy\Programas\Funcao\Funcao\bin\Debug\netcoreapp3.1\Funcao.dll
+C:\Cursos\Curso c#\Udemy\Programas\Funcao\Funcao\bin\Debug\netcoreapp3.1\Funcao.pdb
+C:\Cursos\Curso c#\Udemy\Programas\Funcao\Funcao\obj\Debug\netcoreapp3.1\Funcao.csprojAssemblyReference.cache
+C:\Cursos\Curso c#\Udemy\Programas\Funcao\Funcao\obj\Debug\netcoreapp3.1\Funcao.AssemblyInfoInputs.cache
+C:\Cursos\Curso c#\Udemy\Programas\Funcao\Funcao\obj\Debug\netcoreapp3.1\Funcao.AssemblyInfo.cs
+C:\Cursos\Curso c#\Udemy\Programas\Funcao\Funcao\obj\Debug\netcoreapp3.1\Funcao.csproj.CoreCompileInputs.cache
+C:\Cursos\Curso c#\Udemy\Programas\Funcao\Funcao\obj\Debug\netcoreapp3.1\Funcao.dll
+C:\Cursos\Curso c#\Udemy\Programas\Funcao\Funcao\obj\Debug\netcoreapp3.1\Funcao.pdb
+C:\Cursos\Curso c#\Udemy\Programas\Funcao\Funcao\obj\Debug\netcoreapp3.1\Funcao.genruntimeconfig.cache
