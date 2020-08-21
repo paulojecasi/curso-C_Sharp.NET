@@ -11,3 +11,16 @@ C:\Cursos\Curso c#\Udemy\Programas\MedidaDoTriangulo\MedidaDoTriangulo\obj\Debug
 C:\Cursos\Curso c#\Udemy\Programas\MedidaDoTriangulo\MedidaDoTriangulo\obj\Debug\netcoreapp3.1\MedidaDoTriangulo.dll
 C:\Cursos\Curso c#\Udemy\Programas\MedidaDoTriangulo\MedidaDoTriangulo\obj\Debug\netcoreapp3.1\MedidaDoTriangulo.pdb
 C:\Cursos\Curso c#\Udemy\Programas\MedidaDoTriangulo\MedidaDoTriangulo\obj\Debug\netcoreapp3.1\MedidaDoTriangulo.genruntimeconfig.cache
+C:\Cursos\Curso_C#.NET\Udemy\Programas\MedidaDoTriangulo\MedidaDoTriangulo\bin\Debug\netcoreapp3.1\MedidaDoTriangulo.exe
+C:\Cursos\Curso_C#.NET\Udemy\Programas\MedidaDoTriangulo\MedidaDoTriangulo\bin\Debug\netcoreapp3.1\MedidaDoTriangulo.deps.json
+C:\Cursos\Curso_C#.NET\Udemy\Programas\MedidaDoTriangulo\MedidaDoTriangulo\bin\Debug\netcoreapp3.1\MedidaDoTriangulo.runtimeconfig.json
+C:\Cursos\Curso_C#.NET\Udemy\Programas\MedidaDoTriangulo\MedidaDoTriangulo\bin\Debug\netcoreapp3.1\MedidaDoTriangulo.runtimeconfig.dev.json
+C:\Cursos\Curso_C#.NET\Udemy\Programas\MedidaDoTriangulo\MedidaDoTriangulo\bin\Debug\netcoreapp3.1\MedidaDoTriangulo.dll
+C:\Cursos\Curso_C#.NET\Udemy\Programas\MedidaDoTriangulo\MedidaDoTriangulo\bin\Debug\netcoreapp3.1\MedidaDoTriangulo.pdb
+C:\Cursos\Curso_C#.NET\Udemy\Programas\MedidaDoTriangulo\MedidaDoTriangulo\obj\Debug\netcoreapp3.1\MedidaDoTriangulo.csprojAssemblyReference.cache
+C:\Cursos\Curso_C#.NET\Udemy\Programas\MedidaDoTriangulo\MedidaDoTriangulo\obj\Debug\netcoreapp3.1\MedidaDoTriangulo.AssemblyInfoInputs.cache
+C:\Cursos\Curso_C#.NET\Udemy\Programas\MedidaDoTriangulo\MedidaDoTriangulo\obj\Debug\netcoreapp3.1\MedidaDoTriangulo.AssemblyInfo.cs
+C:\Cursos\Curso_C#.NET\Udemy\Programas\MedidaDoTriangulo\MedidaDoTriangulo\obj\Debug\netcoreapp3.1\MedidaDoTriangulo.csproj.CoreCompileInputs.cache
+C:\Cursos\Curso_C#.NET\Udemy\Programas\MedidaDoTriangulo\MedidaDoTriangulo\obj\Debug\netcoreapp3.1\MedidaDoTriangulo.dll
+C:\Cursos\Curso_C#.NET\Udemy\Programas\MedidaDoTriangulo\MedidaDoTriangulo\obj\Debug\netcoreapp3.1\MedidaDoTriangulo.pdb
+C:\Cursos\Curso_C#.NET\Udemy\Programas\MedidaDoTriangulo\MedidaDoTriangulo\obj\Debug\netcoreapp3.1\MedidaDoTriangulo.genruntimeconfig.cache

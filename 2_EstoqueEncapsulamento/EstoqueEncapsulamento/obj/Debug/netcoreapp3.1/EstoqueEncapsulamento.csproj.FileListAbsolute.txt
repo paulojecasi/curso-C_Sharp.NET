@@ -1,0 +1,13 @@
+C:\Cursos\Curso_C#.NET\Udemy\Programas\EstoqueEncapsulamento\EstoqueEncapsulamento\bin\Debug\netcoreapp3.1\EstoqueEncapsulamento.exe
+C:\Cursos\Curso_C#.NET\Udemy\Programas\EstoqueEncapsulamento\EstoqueEncapsulamento\bin\Debug\netcoreapp3.1\EstoqueEncapsulamento.deps.json
+C:\Cursos\Curso_C#.NET\Udemy\Programas\EstoqueEncapsulamento\EstoqueEncapsulamento\bin\Debug\netcoreapp3.1\EstoqueEncapsulamento.runtimeconfig.json
+C:\Cursos\Curso_C#.NET\Udemy\Programas\EstoqueEncapsulamento\EstoqueEncapsulamento\bin\Debug\netcoreapp3.1\EstoqueEncapsulamento.runtimeconfig.dev.json
+C:\Cursos\Curso_C#.NET\Udemy\Programas\EstoqueEncapsulamento\EstoqueEncapsulamento\bin\Debug\netcoreapp3.1\EstoqueEncapsulamento.dll
+C:\Cursos\Curso_C#.NET\Udemy\Programas\EstoqueEncapsulamento\EstoqueEncapsulamento\bin\Debug\netcoreapp3.1\EstoqueEncapsulamento.pdb
+C:\Cursos\Curso_C#.NET\Udemy\Programas\EstoqueEncapsulamento\EstoqueEncapsulamento\obj\Debug\netcoreapp3.1\EstoqueEncapsulamento.csprojAssemblyReference.cache
+C:\Cursos\Curso_C#.NET\Udemy\Programas\EstoqueEncapsulamento\EstoqueEncapsulamento\obj\Debug\netcoreapp3.1\EstoqueEncapsulamento.AssemblyInfoInputs.cache
+C:\Cursos\Curso_C#.NET\Udemy\Programas\EstoqueEncapsulamento\EstoqueEncapsulamento\obj\Debug\netcoreapp3.1\EstoqueEncapsulamento.AssemblyInfo.cs
+C:\Cursos\Curso_C#.NET\Udemy\Programas\EstoqueEncapsulamento\EstoqueEncapsulamento\obj\Debug\netcoreapp3.1\EstoqueEncapsulamento.csproj.CoreCompileInputs.cache
+C:\Cursos\Curso_C#.NET\Udemy\Programas\EstoqueEncapsulamento\EstoqueEncapsulamento\obj\Debug\netcoreapp3.1\EstoqueEncapsulamento.dll
+C:\Cursos\Curso_C#.NET\Udemy\Programas\EstoqueEncapsulamento\EstoqueEncapsulamento\obj\Debug\netcoreapp3.1\EstoqueEncapsulamento.pdb
+C:\Cursos\Curso_C#.NET\Udemy\Programas\EstoqueEncapsulamento\EstoqueEncapsulamento\obj\Debug\netcoreapp3.1\EstoqueEncapsulamento.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Cursos\Curso_C#.NET\Udemy\Programas\3_EstoqueProperties\EstoqueProperties\obj\Debug\netcoreapp3.1\EstoqueProperties.csprojAssemblyReference.cache
+C:\Cursos\Curso_C#.NET\Udemy\Programas\3_EstoqueProperties\EstoqueProperties\obj\Debug\netcoreapp3.1\EstoqueProperties.AssemblyInfoInputs.cache
+C:\Cursos\Curso_C#.NET\Udemy\Programas\3_EstoqueProperties\EstoqueProperties\obj\Debug\netcoreapp3.1\EstoqueProperties.AssemblyInfo.cs
+C:\Cursos\Curso_C#.NET\Udemy\Programas\3_EstoqueProperties\EstoqueProperties\obj\Debug\netcoreapp3.1\EstoqueProperties.csproj.CoreCompileInputs.cache
+C:\Cursos\Curso_C#.NET\Udemy\Programas\3_EstoqueProperties\EstoqueProperties\bin\Debug\netcoreapp3.1\EstoqueProperties.exe
+C:\Cursos\Curso_C#.NET\Udemy\Programas\3_EstoqueProperties\EstoqueProperties\bin\Debug\netcoreapp3.1\EstoqueProperties.deps.json
+C:\Cursos\Curso_C#.NET\Udemy\Programas\3_EstoqueProperties\EstoqueProperties\bin\Debug\netcoreapp3.1\EstoqueProperties.runtimeconfig.json
+C:\Cursos\Curso_C#.NET\Udemy\Programas\3_EstoqueProperties\EstoqueProperties\bin\Debug\netcoreapp3.1\EstoqueProperties.runtimeconfig.dev.json
+C:\Cursos\Curso_C#.NET\Udemy\Programas\3_EstoqueProperties\EstoqueProperties\bin\Debug\netcoreapp3.1\EstoqueProperties.dll
+C:\Cursos\Curso_C#.NET\Udemy\Programas\3_EstoqueProperties\EstoqueProperties\bin\Debug\netcoreapp3.1\EstoqueProperties.pdb
+C:\Cursos\Curso_C#.NET\Udemy\Programas\3_EstoqueProperties\EstoqueProperties\obj\Debug\netcoreapp3.1\EstoqueProperties.dll
+C:\Cursos\Curso_C#.NET\Udemy\Programas\3_EstoqueProperties\EstoqueProperties\obj\Debug\netcoreapp3.1\EstoqueProperties.pdb
+C:\Cursos\Curso_C#.NET\Udemy\Programas\3_EstoqueProperties\EstoqueProperties\obj\Debug\netcoreapp3.1\EstoqueProperties.genruntimeconfig.cache
