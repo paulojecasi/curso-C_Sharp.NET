@@ -1,0 +1,13 @@
+C:\Cursos\Curso_C#.NET\Udemy\Programas\StructsCurso\StructsCurso\bin\Debug\netcoreapp3.1\StructsCurso.exe
+C:\Cursos\Curso_C#.NET\Udemy\Programas\StructsCurso\StructsCurso\bin\Debug\netcoreapp3.1\StructsCurso.deps.json
+C:\Cursos\Curso_C#.NET\Udemy\Programas\StructsCurso\StructsCurso\bin\Debug\netcoreapp3.1\StructsCurso.runtimeconfig.json
+C:\Cursos\Curso_C#.NET\Udemy\Programas\StructsCurso\StructsCurso\bin\Debug\netcoreapp3.1\StructsCurso.runtimeconfig.dev.json
+C:\Cursos\Curso_C#.NET\Udemy\Programas\StructsCurso\StructsCurso\bin\Debug\netcoreapp3.1\StructsCurso.dll
+C:\Cursos\Curso_C#.NET\Udemy\Programas\StructsCurso\StructsCurso\bin\Debug\netcoreapp3.1\StructsCurso.pdb
+C:\Cursos\Curso_C#.NET\Udemy\Programas\StructsCurso\StructsCurso\obj\Debug\netcoreapp3.1\StructsCurso.csprojAssemblyReference.cache
+C:\Cursos\Curso_C#.NET\Udemy\Programas\StructsCurso\StructsCurso\obj\Debug\netcoreapp3.1\StructsCurso.AssemblyInfoInputs.cache
+C:\Cursos\Curso_C#.NET\Udemy\Programas\StructsCurso\StructsCurso\obj\Debug\netcoreapp3.1\StructsCurso.AssemblyInfo.cs
+C:\Cursos\Curso_C#.NET\Udemy\Programas\StructsCurso\StructsCurso\obj\Debug\netcoreapp3.1\StructsCurso.csproj.CoreCompileInputs.cache
+C:\Cursos\Curso_C#.NET\Udemy\Programas\StructsCurso\StructsCurso\obj\Debug\netcoreapp3.1\StructsCurso.dll
+C:\Cursos\Curso_C#.NET\Udemy\Programas\StructsCurso\StructsCurso\obj\Debug\netcoreapp3.1\StructsCurso.pdb
+C:\Cursos\Curso_C#.NET\Udemy\Programas\StructsCurso\StructsCurso\obj\Debug\netcoreapp3.1\StructsCurso.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Cursos\Curso_C#.NET\Udemy\Programas\VertorCurso\VertorCurso\bin\Debug\netcoreapp3.1\VertorCurso.exe
+C:\Cursos\Curso_C#.NET\Udemy\Programas\VertorCurso\VertorCurso\bin\Debug\netcoreapp3.1\VertorCurso.deps.json
+C:\Cursos\Curso_C#.NET\Udemy\Programas\VertorCurso\VertorCurso\bin\Debug\netcoreapp3.1\VertorCurso.runtimeconfig.json
+C:\Cursos\Curso_C#.NET\Udemy\Programas\VertorCurso\VertorCurso\bin\Debug\netcoreapp3.1\VertorCurso.runtimeconfig.dev.json
+C:\Cursos\Curso_C#.NET\Udemy\Programas\VertorCurso\VertorCurso\bin\Debug\netcoreapp3.1\VertorCurso.dll
+C:\Cursos\Curso_C#.NET\Udemy\Programas\VertorCurso\VertorCurso\bin\Debug\netcoreapp3.1\VertorCurso.pdb
+C:\Cursos\Curso_C#.NET\Udemy\Programas\VertorCurso\VertorCurso\obj\Debug\netcoreapp3.1\VertorCurso.csprojAssemblyReference.cache
+C:\Cursos\Curso_C#.NET\Udemy\Programas\VertorCurso\VertorCurso\obj\Debug\netcoreapp3.1\VertorCurso.AssemblyInfoInputs.cache
+C:\Cursos\Curso_C#.NET\Udemy\Programas\VertorCurso\VertorCurso\obj\Debug\netcoreapp3.1\VertorCurso.AssemblyInfo.cs
+C:\Cursos\Curso_C#.NET\Udemy\Programas\VertorCurso\VertorCurso\obj\Debug\netcoreapp3.1\VertorCurso.csproj.CoreCompileInputs.cache
+C:\Cursos\Curso_C#.NET\Udemy\Programas\VertorCurso\VertorCurso\obj\Debug\netcoreapp3.1\VertorCurso.dll
+C:\Cursos\Curso_C#.NET\Udemy\Programas\VertorCurso\VertorCurso\obj\Debug\netcoreapp3.1\VertorCurso.pdb
+C:\Cursos\Curso_C#.NET\Udemy\Programas\VertorCurso\VertorCurso\obj\Debug\netcoreapp3.1\VertorCurso.genruntimeconfig.cache
