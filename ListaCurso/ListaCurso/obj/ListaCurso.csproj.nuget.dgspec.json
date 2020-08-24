@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Cursos\\Curso_C#.NET\\Udemy\\Programas\\VetorCurso\\VertorCurso\\VertorCurso.csproj": {}
+    "C:\\Cursos\\Curso_C#.NET\\Udemy\\Programas\\ListaCurso\\ListaCurso\\ListaCurso.csproj": {}
   },
   "projects": {
-    "C:\\Cursos\\Curso_C#.NET\\Udemy\\Programas\\VetorCurso\\VertorCurso\\VertorCurso.csproj": {
+    "C:\\Cursos\\Curso_C#.NET\\Udemy\\Programas\\ListaCurso\\ListaCurso\\ListaCurso.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Cursos\\Curso_C#.NET\\Udemy\\Programas\\VetorCurso\\VertorCurso\\VertorCurso.csproj",
-        "projectName": "VertorCurso",
-        "projectPath": "C:\\Cursos\\Curso_C#.NET\\Udemy\\Programas\\VetorCurso\\VertorCurso\\VertorCurso.csproj",
+        "projectUniqueName": "C:\\Cursos\\Curso_C#.NET\\Udemy\\Programas\\ListaCurso\\ListaCurso\\ListaCurso.csproj",
+        "projectName": "ListaCurso",
+        "projectPath": "C:\\Cursos\\Curso_C#.NET\\Udemy\\Programas\\ListaCurso\\ListaCurso\\ListaCurso.csproj",
         "packagesPath": "C:\\Users\\Paulo de Jesus\\.nuget\\packages\\",
-        "outputPath": "C:\\Cursos\\Curso_C#.NET\\Udemy\\Programas\\VetorCurso\\VertorCurso\\obj\\",
+        "outputPath": "C:\\Cursos\\Curso_C#.NET\\Udemy\\Programas\\ListaCurso\\ListaCurso\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Paulo de Jesus\\AppData\\Roaming\\NuGet\\NuGet.Config",

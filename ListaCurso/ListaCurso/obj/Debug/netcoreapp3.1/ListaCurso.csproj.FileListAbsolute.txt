@@ -1,0 +1,13 @@
+C:\Cursos\Curso_C#.NET\Udemy\Programas\ListaCurso\ListaCurso\bin\Debug\netcoreapp3.1\ListaCurso.exe
+C:\Cursos\Curso_C#.NET\Udemy\Programas\ListaCurso\ListaCurso\bin\Debug\netcoreapp3.1\ListaCurso.deps.json
+C:\Cursos\Curso_C#.NET\Udemy\Programas\ListaCurso\ListaCurso\bin\Debug\netcoreapp3.1\ListaCurso.runtimeconfig.json
+C:\Cursos\Curso_C#.NET\Udemy\Programas\ListaCurso\ListaCurso\bin\Debug\netcoreapp3.1\ListaCurso.runtimeconfig.dev.json
+C:\Cursos\Curso_C#.NET\Udemy\Programas\ListaCurso\ListaCurso\bin\Debug\netcoreapp3.1\ListaCurso.dll
+C:\Cursos\Curso_C#.NET\Udemy\Programas\ListaCurso\ListaCurso\bin\Debug\netcoreapp3.1\ListaCurso.pdb
+C:\Cursos\Curso_C#.NET\Udemy\Programas\ListaCurso\ListaCurso\obj\Debug\netcoreapp3.1\ListaCurso.csprojAssemblyReference.cache
+C:\Cursos\Curso_C#.NET\Udemy\Programas\ListaCurso\ListaCurso\obj\Debug\netcoreapp3.1\ListaCurso.AssemblyInfoInputs.cache
+C:\Cursos\Curso_C#.NET\Udemy\Programas\ListaCurso\ListaCurso\obj\Debug\netcoreapp3.1\ListaCurso.AssemblyInfo.cs
+C:\Cursos\Curso_C#.NET\Udemy\Programas\ListaCurso\ListaCurso\obj\Debug\netcoreapp3.1\ListaCurso.csproj.CoreCompileInputs.cache
+C:\Cursos\Curso_C#.NET\Udemy\Programas\ListaCurso\ListaCurso\obj\Debug\netcoreapp3.1\ListaCurso.dll
+C:\Cursos\Curso_C#.NET\Udemy\Programas\ListaCurso\ListaCurso\obj\Debug\netcoreapp3.1\ListaCurso.pdb
+C:\Cursos\Curso_C#.NET\Udemy\Programas\ListaCurso\ListaCurso\obj\Debug\netcoreapp3.1\ListaCurso.genruntimeconfig.cache
