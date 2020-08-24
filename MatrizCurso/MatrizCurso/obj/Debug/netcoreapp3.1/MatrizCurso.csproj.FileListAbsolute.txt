@@ -1,0 +1,13 @@
+C:\Cursos\Curso_C#.NET\Udemy\Programas\MatrizCurso\MatrizCurso\bin\Debug\netcoreapp3.1\MatrizCurso.exe
+C:\Cursos\Curso_C#.NET\Udemy\Programas\MatrizCurso\MatrizCurso\bin\Debug\netcoreapp3.1\MatrizCurso.deps.json
+C:\Cursos\Curso_C#.NET\Udemy\Programas\MatrizCurso\MatrizCurso\bin\Debug\netcoreapp3.1\MatrizCurso.runtimeconfig.json
+C:\Cursos\Curso_C#.NET\Udemy\Programas\MatrizCurso\MatrizCurso\bin\Debug\netcoreapp3.1\MatrizCurso.runtimeconfig.dev.json
+C:\Cursos\Curso_C#.NET\Udemy\Programas\MatrizCurso\MatrizCurso\bin\Debug\netcoreapp3.1\MatrizCurso.dll
+C:\Cursos\Curso_C#.NET\Udemy\Programas\MatrizCurso\MatrizCurso\bin\Debug\netcoreapp3.1\MatrizCurso.pdb
+C:\Cursos\Curso_C#.NET\Udemy\Programas\MatrizCurso\MatrizCurso\obj\Debug\netcoreapp3.1\MatrizCurso.AssemblyInfoInputs.cache
+C:\Cursos\Curso_C#.NET\Udemy\Programas\MatrizCurso\MatrizCurso\obj\Debug\netcoreapp3.1\MatrizCurso.AssemblyInfo.cs
+C:\Cursos\Curso_C#.NET\Udemy\Programas\MatrizCurso\MatrizCurso\obj\Debug\netcoreapp3.1\MatrizCurso.csproj.CoreCompileInputs.cache
+C:\Cursos\Curso_C#.NET\Udemy\Programas\MatrizCurso\MatrizCurso\obj\Debug\netcoreapp3.1\MatrizCurso.dll
+C:\Cursos\Curso_C#.NET\Udemy\Programas\MatrizCurso\MatrizCurso\obj\Debug\netcoreapp3.1\MatrizCurso.pdb
+C:\Cursos\Curso_C#.NET\Udemy\Programas\MatrizCurso\MatrizCurso\obj\Debug\netcoreapp3.1\MatrizCurso.genruntimeconfig.cache
+C:\Cursos\Curso_C#.NET\Udemy\Programas\MatrizCurso\MatrizCurso\obj\Debug\netcoreapp3.1\MatrizCurso.csprojAssemblyReference.cache

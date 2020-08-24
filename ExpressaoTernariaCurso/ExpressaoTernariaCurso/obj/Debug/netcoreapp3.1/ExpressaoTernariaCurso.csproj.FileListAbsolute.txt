@@ -1,0 +1,13 @@
+C:\Cursos\Curso_C#.NET\Udemy\Programas\ExpressaoTernariaCurso\ExpressaoTernariaCurso\bin\Debug\netcoreapp3.1\ExpressaoTernariaCurso.exe
+C:\Cursos\Curso_C#.NET\Udemy\Programas\ExpressaoTernariaCurso\ExpressaoTernariaCurso\bin\Debug\netcoreapp3.1\ExpressaoTernariaCurso.deps.json
+C:\Cursos\Curso_C#.NET\Udemy\Programas\ExpressaoTernariaCurso\ExpressaoTernariaCurso\bin\Debug\netcoreapp3.1\ExpressaoTernariaCurso.runtimeconfig.json
+C:\Cursos\Curso_C#.NET\Udemy\Programas\ExpressaoTernariaCurso\ExpressaoTernariaCurso\bin\Debug\netcoreapp3.1\ExpressaoTernariaCurso.runtimeconfig.dev.json
+C:\Cursos\Curso_C#.NET\Udemy\Programas\ExpressaoTernariaCurso\ExpressaoTernariaCurso\bin\Debug\netcoreapp3.1\ExpressaoTernariaCurso.dll
+C:\Cursos\Curso_C#.NET\Udemy\Programas\ExpressaoTernariaCurso\ExpressaoTernariaCurso\bin\Debug\netcoreapp3.1\ExpressaoTernariaCurso.pdb
+C:\Cursos\Curso_C#.NET\Udemy\Programas\ExpressaoTernariaCurso\ExpressaoTernariaCurso\obj\Debug\netcoreapp3.1\ExpressaoTernariaCurso.csprojAssemblyReference.cache
+C:\Cursos\Curso_C#.NET\Udemy\Programas\ExpressaoTernariaCurso\ExpressaoTernariaCurso\obj\Debug\netcoreapp3.1\ExpressaoTernariaCurso.AssemblyInfoInputs.cache
+C:\Cursos\Curso_C#.NET\Udemy\Programas\ExpressaoTernariaCurso\ExpressaoTernariaCurso\obj\Debug\netcoreapp3.1\ExpressaoTernariaCurso.AssemblyInfo.cs
+C:\Cursos\Curso_C#.NET\Udemy\Programas\ExpressaoTernariaCurso\ExpressaoTernariaCurso\obj\Debug\netcoreapp3.1\ExpressaoTernariaCurso.csproj.CoreCompileInputs.cache
+C:\Cursos\Curso_C#.NET\Udemy\Programas\ExpressaoTernariaCurso\ExpressaoTernariaCurso\obj\Debug\netcoreapp3.1\ExpressaoTernariaCurso.dll
+C:\Cursos\Curso_C#.NET\Udemy\Programas\ExpressaoTernariaCurso\ExpressaoTernariaCurso\obj\Debug\netcoreapp3.1\ExpressaoTernariaCurso.pdb
+C:\Cursos\Curso_C#.NET\Udemy\Programas\ExpressaoTernariaCurso\ExpressaoTernariaCurso\obj\Debug\netcoreapp3.1\ExpressaoTernariaCurso.genruntimeconfig.cache
