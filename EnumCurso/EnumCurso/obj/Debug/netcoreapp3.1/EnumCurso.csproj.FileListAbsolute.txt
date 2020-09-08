@@ -1,0 +1,13 @@
+C:\Cursos\Curso_C#.NET\Udemy\Programas\EnumCurso\EnumCurso\bin\Debug\netcoreapp3.1\EnumCurso.exe
+C:\Cursos\Curso_C#.NET\Udemy\Programas\EnumCurso\EnumCurso\bin\Debug\netcoreapp3.1\EnumCurso.deps.json
+C:\Cursos\Curso_C#.NET\Udemy\Programas\EnumCurso\EnumCurso\bin\Debug\netcoreapp3.1\EnumCurso.runtimeconfig.json
+C:\Cursos\Curso_C#.NET\Udemy\Programas\EnumCurso\EnumCurso\bin\Debug\netcoreapp3.1\EnumCurso.runtimeconfig.dev.json
+C:\Cursos\Curso_C#.NET\Udemy\Programas\EnumCurso\EnumCurso\bin\Debug\netcoreapp3.1\EnumCurso.dll
+C:\Cursos\Curso_C#.NET\Udemy\Programas\EnumCurso\EnumCurso\bin\Debug\netcoreapp3.1\EnumCurso.pdb
+C:\Cursos\Curso_C#.NET\Udemy\Programas\EnumCurso\EnumCurso\obj\Debug\netcoreapp3.1\EnumCurso.csprojAssemblyReference.cache
+C:\Cursos\Curso_C#.NET\Udemy\Programas\EnumCurso\EnumCurso\obj\Debug\netcoreapp3.1\EnumCurso.AssemblyInfoInputs.cache
+C:\Cursos\Curso_C#.NET\Udemy\Programas\EnumCurso\EnumCurso\obj\Debug\netcoreapp3.1\EnumCurso.AssemblyInfo.cs
+C:\Cursos\Curso_C#.NET\Udemy\Programas\EnumCurso\EnumCurso\obj\Debug\netcoreapp3.1\EnumCurso.csproj.CoreCompileInputs.cache
+C:\Cursos\Curso_C#.NET\Udemy\Programas\EnumCurso\EnumCurso\obj\Debug\netcoreapp3.1\EnumCurso.dll
+C:\Cursos\Curso_C#.NET\Udemy\Programas\EnumCurso\EnumCurso\obj\Debug\netcoreapp3.1\EnumCurso.pdb
+C:\Cursos\Curso_C#.NET\Udemy\Programas\EnumCurso\EnumCurso\obj\Debug\netcoreapp3.1\EnumCurso.genruntimeconfig.cache

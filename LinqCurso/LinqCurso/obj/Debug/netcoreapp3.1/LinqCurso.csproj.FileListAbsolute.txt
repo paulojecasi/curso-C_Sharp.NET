@@ -1,0 +1,13 @@
+C:\Cursos\Curso_C#.NET\Udemy\Programas\LinqCurso\LinqCurso\bin\Debug\netcoreapp3.1\LinqCurso.exe
+C:\Cursos\Curso_C#.NET\Udemy\Programas\LinqCurso\LinqCurso\bin\Debug\netcoreapp3.1\LinqCurso.deps.json
+C:\Cursos\Curso_C#.NET\Udemy\Programas\LinqCurso\LinqCurso\bin\Debug\netcoreapp3.1\LinqCurso.runtimeconfig.json
+C:\Cursos\Curso_C#.NET\Udemy\Programas\LinqCurso\LinqCurso\bin\Debug\netcoreapp3.1\LinqCurso.runtimeconfig.dev.json
+C:\Cursos\Curso_C#.NET\Udemy\Programas\LinqCurso\LinqCurso\bin\Debug\netcoreapp3.1\LinqCurso.dll
+C:\Cursos\Curso_C#.NET\Udemy\Programas\LinqCurso\LinqCurso\bin\Debug\netcoreapp3.1\LinqCurso.pdb
+C:\Cursos\Curso_C#.NET\Udemy\Programas\LinqCurso\LinqCurso\obj\Debug\netcoreapp3.1\LinqCurso.csprojAssemblyReference.cache
+C:\Cursos\Curso_C#.NET\Udemy\Programas\LinqCurso\LinqCurso\obj\Debug\netcoreapp3.1\LinqCurso.AssemblyInfoInputs.cache
+C:\Cursos\Curso_C#.NET\Udemy\Programas\LinqCurso\LinqCurso\obj\Debug\netcoreapp3.1\LinqCurso.AssemblyInfo.cs
+C:\Cursos\Curso_C#.NET\Udemy\Programas\LinqCurso\LinqCurso\obj\Debug\netcoreapp3.1\LinqCurso.csproj.CoreCompileInputs.cache
+C:\Cursos\Curso_C#.NET\Udemy\Programas\LinqCurso\LinqCurso\obj\Debug\netcoreapp3.1\LinqCurso.dll
+C:\Cursos\Curso_C#.NET\Udemy\Programas\LinqCurso\LinqCurso\obj\Debug\netcoreapp3.1\LinqCurso.pdb
+C:\Cursos\Curso_C#.NET\Udemy\Programas\LinqCurso\LinqCurso\obj\Debug\netcoreapp3.1\LinqCurso.genruntimeconfig.cache

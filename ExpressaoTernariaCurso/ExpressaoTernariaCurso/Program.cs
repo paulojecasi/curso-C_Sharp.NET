@@ -31,9 +31,11 @@ namespace ExpressaoTernariaCurso
 
             Console.WriteLine("(IF) Valor com desconto é " + (valor - desconto));
 
+
             // EXPRESSAO CONDICIONAL TERNARIA, FICA ASSIM
 
             desconto = (valor < 100) ? desconto = valor * 0.1 : desconto = valor * 0.05;
+
             Console.WriteLine("(TER) Valor com desconto é " + (valor - desconto));
 
 
