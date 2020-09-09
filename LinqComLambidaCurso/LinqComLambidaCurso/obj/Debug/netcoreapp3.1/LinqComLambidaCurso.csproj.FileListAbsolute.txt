@@ -1,0 +1,13 @@
+C:\Cursos\Curso_C#.NET\Udemy\Programas\LinqComLambidaCurso\LinqComLambidaCurso\bin\Debug\netcoreapp3.1\LinqComLambidaCurso.exe
+C:\Cursos\Curso_C#.NET\Udemy\Programas\LinqComLambidaCurso\LinqComLambidaCurso\bin\Debug\netcoreapp3.1\LinqComLambidaCurso.deps.json
+C:\Cursos\Curso_C#.NET\Udemy\Programas\LinqComLambidaCurso\LinqComLambidaCurso\bin\Debug\netcoreapp3.1\LinqComLambidaCurso.runtimeconfig.json
+C:\Cursos\Curso_C#.NET\Udemy\Programas\LinqComLambidaCurso\LinqComLambidaCurso\bin\Debug\netcoreapp3.1\LinqComLambidaCurso.runtimeconfig.dev.json
+C:\Cursos\Curso_C#.NET\Udemy\Programas\LinqComLambidaCurso\LinqComLambidaCurso\bin\Debug\netcoreapp3.1\LinqComLambidaCurso.dll
+C:\Cursos\Curso_C#.NET\Udemy\Programas\LinqComLambidaCurso\LinqComLambidaCurso\bin\Debug\netcoreapp3.1\LinqComLambidaCurso.pdb
+C:\Cursos\Curso_C#.NET\Udemy\Programas\LinqComLambidaCurso\LinqComLambidaCurso\obj\Debug\netcoreapp3.1\LinqComLambidaCurso.csprojAssemblyReference.cache
+C:\Cursos\Curso_C#.NET\Udemy\Programas\LinqComLambidaCurso\LinqComLambidaCurso\obj\Debug\netcoreapp3.1\LinqComLambidaCurso.AssemblyInfoInputs.cache
+C:\Cursos\Curso_C#.NET\Udemy\Programas\LinqComLambidaCurso\LinqComLambidaCurso\obj\Debug\netcoreapp3.1\LinqComLambidaCurso.AssemblyInfo.cs
+C:\Cursos\Curso_C#.NET\Udemy\Programas\LinqComLambidaCurso\LinqComLambidaCurso\obj\Debug\netcoreapp3.1\LinqComLambidaCurso.csproj.CoreCompileInputs.cache
+C:\Cursos\Curso_C#.NET\Udemy\Programas\LinqComLambidaCurso\LinqComLambidaCurso\obj\Debug\netcoreapp3.1\LinqComLambidaCurso.dll
+C:\Cursos\Curso_C#.NET\Udemy\Programas\LinqComLambidaCurso\LinqComLambidaCurso\obj\Debug\netcoreapp3.1\LinqComLambidaCurso.pdb
+C:\Cursos\Curso_C#.NET\Udemy\Programas\LinqComLambidaCurso\LinqComLambidaCurso\obj\Debug\netcoreapp3.1\LinqComLambidaCurso.genruntimeconfig.cache
